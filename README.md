@@ -11,7 +11,12 @@ Custom block for [i3status-rs](https://github.com/greshake/i3status-rust) which 
 
 ## Installation
 
-- Install i3keyboardlayout ```console go install github.com/julez-dev/i3keyboardlayout@latest```
+- Install i3keyboardlayout
+
+    ```console
+    go install github.com/julez-dev/i3keyboardlayout@latest
+    ```
+
 - Configure a new i3status-rs block
 
     Example with us and de keyboard
