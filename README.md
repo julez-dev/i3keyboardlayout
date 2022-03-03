@@ -1,6 +1,7 @@
 # i3keyboardlayout
 
 Custom block for [i3status-rs](https://github.com/greshake/i3status-rust) which allows switching between predefined keyboard layouts
+![Preview](/preview.png?raw=true)
 
 ## Requirements
 
